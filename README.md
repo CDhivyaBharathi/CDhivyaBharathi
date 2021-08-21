@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CDhivyaBharathi
-- 👀 I’m interested in reading books and coding
-- 🌱 I’m currently in grade 10 and I am learning python
+- 👀 I’m interested in reading books,coding and Kpop
+- 🌱 I’m currently in grade 10 and I am learning 3-D Modeling
 - 📫 You can reach me at bharathi.chellakumar@gmail.com
 
 <!---
