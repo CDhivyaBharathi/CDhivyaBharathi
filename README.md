@@ -1,4 +1,4 @@
-Hello there! 👋
+Hello there! 
 I'm an undergraduate student at Ashoka University, currently pursuing a major in Computer Science. I am passionate about leveraging technology to solve complex problems and continuously learning about new advancements in the field.
 
 💻 Languages & Technologies
